@@ -32,4 +32,5 @@ https://www.youtube.com/watch?v=zoCKINGh2DQ
 1. make the keyboard layout you want in keyboard-layout.com.
 2. create the plates with https://kbplate.ai03.com/
 3. Open the .svg-files in https://www.tinkercad.com/ and cut/add material, so it fits the case.
-4. 
+4. create all the .stl-files for the case.
+5. Create cutouts for power, battery and microcontroller.
